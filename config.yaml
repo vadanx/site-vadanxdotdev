@@ -1,0 +1,47 @@
+---
+baseURL: https://www.vadanx.dev/
+
+defaultContentLanguage: en
+
+enableRobotsTXT: true
+
+languageCode: en
+
+# menu:
+#   main:
+#   - identifier: about
+#     name: About
+#     pre: <span data-feather='user'></span>
+#     url: /about/
+#     weight: 10
+#   - identifier: projects
+#     name: Projects
+#     pre: <span data-feather='briefcase'></span>
+#     url: /projects/
+#     weight: 20
+#   - identifier: tags
+#     name: Tags
+#     pre: <span data-feather='hash'></span>
+#     url: /tags/
+#     weight: 30
+
+params:
+  accentColor: "#AE04CC"
+  avatarSize: size-xl
+  avatarURL: images/logo-256x256.png
+  customHeadHTML: <script async src="https://analytics.umami.is/script.js" data-website-id="933bf4f0-66f8-4bec-a904-0e414c64bca3"></script>
+  metaKeywords: [blog, foundry, foundryvtt, gokarna, hugo, rpg, ttrpg, vadanx, vtt]
+  homepageTitle: vadanxdotdev
+  socialIcons:
+  - name: email
+    url: mailto:andrew@vadanx.dev
+  - name: github
+    url: https://github.com/vadanx
+  - name: linkedin
+    url: https://www.linkedin.com/in/vadanx
+
+pygmentsStyle: monokai
+
+theme: gokarna
+
+title: vadanx.dev
