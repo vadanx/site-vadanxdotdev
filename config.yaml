@@ -26,12 +26,11 @@ languageCode: en
 #     weight: 30
 
 params:
-  accentColor: "#AE04CC"
+  accentColor: "#7C35BA"
   avatarSize: size-xl
-  avatarURL: images/logo-256x256.png
+  avatarURL: images/logo.jpg
   customHeadHTML: <script async src="https://analytics.umami.is/script.js" data-website-id="933bf4f0-66f8-4bec-a904-0e414c64bca3"></script>
   metaKeywords: [blog, foundry, foundryvtt, gokarna, hugo, rpg, ttrpg, vadanx, vtt]
-  homepageTitle: vadanxdotdev
   socialIcons:
   - name: email
     url: mailto:andrew@vadanx.dev
@@ -44,4 +43,4 @@ pygmentsStyle: monokai
 
 theme: gokarna
 
-title: vadanx.dev
+title: vadanxdotdev
